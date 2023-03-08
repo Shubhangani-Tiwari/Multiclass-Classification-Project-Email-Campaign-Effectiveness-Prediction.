@@ -1,10 +1,10 @@
 # Muliclass-Classification-Project-Email-Campaign-Effectiveness-Prediction.
 
-Problem Statement:
+# Problem Statement:
 __________________
 Small to medium business owners are using Gmail-based email marketing strategies to convert prospective customers into leads, but they are unable to track which emails are being ignored, read, or acknowledged by the reader. They want to create a machine learning model to help characterize and track these emails. The main objective is to improve the effectiveness of their email marketing efforts and increase customer retention.
 
-Variables Description:
+# Variables Description:
 ______________________
 Email_Id - Email id of customer
 
