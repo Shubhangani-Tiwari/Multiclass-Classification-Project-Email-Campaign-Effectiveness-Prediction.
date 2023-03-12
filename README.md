@@ -43,7 +43,7 @@ Classification_Project_Email_Campaign.ipynb:Complete Google Collab notebook cont
 _____
 
 # 📈 Exploratory Data Analysis:
-_
+
 In the Email Campaign Type feature, it seems like in campaign type 1 very few emails were sent but has a very high likelihood of getting read. Most emails were sent under email campaign type 2 and most ignored. Seems like campaign 3 was a success as even when less number of emails were sent under campaign 3, more emails were read and acknowledged.
 
 Analyzing total past communications, we can see that the more the number of previous emails, the more it leads to read and acknowledged emails. This is just about making connection with your customers.
@@ -52,7 +52,7 @@ The more the words in an email, the more it has a tendency it has to get ignored
 _
 
 # 📈 Results:
-_
+
 XGBoost Algorithm worked in the best way possible with such imbalanced data with outliers with F1 Score of 0.75 on the test set.
 
 
