@@ -49,4 +49,11 @@ In the Email Campaign Type feature, it seems like in campaign type 1 very few em
 Analyzing total past communications, we can see that the more the number of previous emails, the more it leads to read and acknowledged emails. This is just about making connection with your customers.
 
 The more the words in an email, the more it has a tendency it has to get ignored. Too lengthy emails are getting ignored.
+_
+
+# 📈 Results:
+_
+XGBoost Algorithm worked in the best way possible with such imbalanced data with outliers with F1 Score of 0.75 on the test set.
+
+
 
