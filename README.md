@@ -1,4 +1,4 @@
-# Muliclass-Classification-Project-Email-Campaign-Effectiveness-Prediction.
+# Multiclass-Classification-Project-Email-Campaign-Effectiveness-Prediction.
 _______________
 Project Type - Supervised ML Classification
 ______________
